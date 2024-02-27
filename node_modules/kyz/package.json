@@ -1,0 +1,25 @@
+{
+  "name": "kyz",
+  "version": "0.0.5",
+  "description": "Collection of useful functions",
+  "main": "kyz.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/kyz.js.git"
+  },
+  "keywords": [
+    "kyz",
+    "url"
+  ],
+  "exports": {
+    "import": "./kyz.js",
+    "require": "./kyz.cjs"
+  },
+  "type": "module",
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/kyz.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/kyz.js#readme"
+}
